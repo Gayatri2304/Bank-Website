@@ -20,15 +20,15 @@ We created a web app for the following Banking tasks :
 
 ## **Tools to be used**
 
-Use Eclipse to develop the project.
+- Use Eclipse to edit the project.
 
-MySql for the database.
+- MySQL for the database.
 
-Server: Apache Tomcat
+- Server: Apache Tomcat
 
-##### Front End: JDBC
+##### **Front End**:  JDBC
 
-##### Back End: MySql
+##### **Back End**:  MySQL
 
 
 
